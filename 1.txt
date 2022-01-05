@@ -1,0 +1,98 @@
+actor
+animal
+hospital
+hotel
+regular
+depender
+
+instituto
+radio
+crisis
+telefono
+nervioso
+presente
+futuro
+pasado
+
+basico
+avanzado
+correctar
+correcto
+
+celebrar
+
+improtante
+interes
+interesante
+doctor
+factor
+musica
+popular
+hora
+color
+grupo
+manera
+minuto
+
+tema
+foto
+plan
+problema
+television
+dolar
+euro
+programa
+numero
+situacion
+normal
+cultura
+
+pero
+perro
+
+religion
+religion
+correcto
+directo
+rapido
+
+
+
+estudiar
+Espana
+
+Yo estudio
+
+
+Estudio 
+
+
+Estudio bien
+
+Estudio muy bien
+
+Estudio mucho
+
+trabajar
+
+Trabajo.
+
+Trabajo mucho.
+
+
+Estudio y trabajo. 
+
+Trabajo y estudio.
+
+
+bailar
+vaso
+vivir 
+
+hablar
+
+Hablo espanol.
+un poco
+
+Hablo espanol un poco.
+
