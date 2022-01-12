@@ -18,7 +18,6 @@ basico
 avanzado
 correctar
 correcto
-
 celebrar
 
 improtante
@@ -26,6 +25,7 @@ interes
 interesante
 doctor
 factor
+
 musica
 popular
 hora
@@ -46,9 +46,10 @@ numero
 situacion
 normal
 cultura
-
 pero
 perro
+
+// se detuvo aqui - остановился тут
 
 religion
 religion
@@ -175,3 +176,29 @@ Me gusta trabajar menos y descansar mas.
 
 Me gusta este curso
 
+leccion
+
+Me gusta esta leccion.
+
+Hola!
+
+Hola, amigos.
+
+Adios.
+
+Hasta pronto.
+
+Gracias.
+
+Muchas gracias.
+
+Muchisimas gracias.
+
+
+Nivel
+
+basico
+
+intermedio
+
+avanzado
